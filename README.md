@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heyy, I am a dedicated and ambitious 4th-year undergraduate student pursuing B.Tech. in Computer Science & Engineering with a specialization in AI. <br>My passion lies in the fields of Data Science and Software Engineering. I have a strong background in Java and Python and possess expertise in TensorFlow, Deep Learning, and Computer Vision. <br>Through various projects 
+Hey Their Iam Rohtith Machine Learning engineer trying to create something like Eagle Eye 
 contact me : ) at rohithsaimidigudla@gmail.com
 
 # 💻 Tech Stack:
