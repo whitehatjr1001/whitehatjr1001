@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://x.com/sharik_mub69649" target="blank"><img src="https://img.shields.io/twitter/follow/mubashir?logo=twitter&style=for-the-badge" alt="mubashir" /></a> </p>
 
-- 🔭 I’m currently working on **LLumina.ai from Deepedge  an Industrial AI Solution that **
+- 🔭 I’m currently working on **LLumina.ai from Deepedge,  an Industrial AI Solution that can help Industries to improve their productivity and security by a swarn of multimodel Agents**
+
 
 - 🌱 I’m interested in  **Open Source contributions**
 
