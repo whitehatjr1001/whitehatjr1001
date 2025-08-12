@@ -3,7 +3,7 @@
 <h1 align="center">Hey Iam Rohith 👋,</h1>
 <h3 align="center">Machine Learning Engineer from India</h3>
 
-<p align="left"> <a href="https://x.com/teac_tales" target="blank"><img src="https://img.shields.io/twitter/follow/mubashir?logo=twitter&style=for-the-badge" alt="rohith sai" /></a> </p>
+<p align="left"> <a href="https://x.com/teac_tales" target="blank"><img src="https://img.shields.io/twitter/follow/rohith?logo=twitter&style=for-the-badge" alt="rohith sai" /></a> </p>
 
 - 🔭 I’m currently working on **LLumina.ai from Deepedge,  an Industrial AI Solution that can help Industries to improve their productivity and security by a swarn of multimodel Agents**
 
